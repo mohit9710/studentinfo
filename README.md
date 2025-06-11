@@ -1,0 +1,2 @@
+# studentinfo
+student information system
